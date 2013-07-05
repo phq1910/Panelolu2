@@ -1,0 +1,22 @@
+Partlist
+
+Exported from Exp_Board_Slolu.brd at 05/07/2013 09:50:11
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package  Library               Position (mm)         Orientation
+
+JP1      1x2 pin        1X02     SparkFun-Connectors   (9.525 2.54)          R0
+JP2      1x2            1X02     SparkFun-Connectors   (14.605 33.0835)      R180
+Q1       RFD14N05L      TO220V   SparkFun-DiscreteSemi (12.065 7.5565)       R180
+Q2       RFD14N05L      TO220V   SparkFun-DiscreteSemi (12.065 27.8765)      R0
+R1       10K            0204/7   resistor              (12.192 12.446)       R0
+R2       10K            0204/7   resistor              (12.192 21.59)        R0
+SJ1                     SJ_2     jumper                (12.192 18.288)       MR0
+SJ2                     SJ_2     jumper                (12.192 15.24)        MR0
+SV1      2x4 pin        MA04-2   con-lstb              (3.81 24.1935)        R270
+SV2      2x7 pin        MA07-2   con-lstb              (3.81 10.16)          R270
+SV3      2x6 pin        MA06-2   con-lstb              (20.955 26.7335)      R270
+SV4      2x6 pin        MA06-2   con-lstb              (20.8915 8.9535)      R270
