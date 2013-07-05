@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.2">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -8351,7 +8351,7 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 </classes>
 <parts>
 <part name="SW1" library="switch-alps" deviceset="EC12E_SW" device=""/>
-<part name="IC1" library="linear" deviceset="LM340?-*" device="MP" technology="05"/>
+<part name="IC1" library="linear" deviceset="LM340?-*" device="MP" technology="05" value="MIC5209-3.3YS"/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C1206K" value="2u2"/>
 <part name="SP1" library="adafruit" deviceset="SPEAKER" device="/PS12"/>
 <part name="U$1" library="DE1594-v2" deviceset="MICROSD_PP" device=""/>
