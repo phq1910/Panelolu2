@@ -1,0 +1,34 @@
+Partlist
+
+Exported from panelolu 2.1.brd at 05/07/2013 09:49:45
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package       Library      Position (mil)        Orientation
+
+BRI      5K             TC33X         adafruit     (2198.4252 685.82677) MR0
+C1       2u2            C1206K        rcl          (3160 130.62992)      MR270
+C2       0u1            C0805K        resistor     (950 260)             MR180
+CON      5K             TC33X         adafruit     (2593.70079 681.88976) MR0
+IC1      MIC5209-3.3YS  SOT223        linear       (2916.06299 170.31496) MR90
+IC2      4050D          SO16          40xx         (2953.93701 537.00787) MR270
+IC3      MCP23017SO28   SO28W         tony         (1540 470)            MR0
+LED1     LED_TH_3MM     LED3MM        sanguinololu (788.18898 100)       R0
+LED2     LED_TH_3MM     LED3MM        sanguinololu (1300 100)            R0
+LED3     LED_TH_3MM     LED3MM        sanguinololu (1805.11811 100)      R0
+R1       10K            M0805         resistor     (677.16535 696.85039) MR0
+R2       680R           M0805         resistor     (600 100)             MR0
+R3       680R           M0805         resistor     (1050 100)            MR0
+R4       680R           M0805         resistor     (1550 100)            MR0
+R5       2.2K           M0805         resistor     (520 580)             MR180
+R6       2.2K           M0805         resistor     (520 674.56693)       MR180
+S1       6mm_Switch     TACTILE-PTH   sanguinololu (950 400)             R0
+SJ1      Solder_Jumper  SJ_2          jumper       (2030 170)            MR180
+SJ2      Solder_Jumper  SJ            jumper       (2125.98425 169.29134) MR180
+SP1      SPEAKER/PS12   PS12          adafruit     (540 400)             R0
+SV1      SV1_TH_HEADER  MA06-2        con-lstb     (187.08661 427.16535) R270
+SV2      MA16-1         MA16-1        con-lstb     (740.31496 870)       R0
+SW1      EC12E_SW       ALPS_EC12E_SW switch-alps  (2400 400)            R270.1
+U$1      MICROSD_PP     MICROSD_PP    DE1594-v2    (3303.93701 456.69291) MR180
